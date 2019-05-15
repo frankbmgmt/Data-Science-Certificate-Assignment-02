@@ -22,7 +22,9 @@ output: html_document
     
     
     `<ANSWER BELOW>`
-    PUT YOUR ANSWER HERE
+   FB: The 1st line makes no sense to me, but the last 2 lines look fine to me.  The last line is printing my_variable's value.
+    
+   The 1st line (or a line above it needs a left bracket to match the right bracket.
     `<ANSWER ABOVE>`
     
     
@@ -31,7 +33,8 @@ output: html_document
 
 
     `<ANSWER BELOW>`
-    PUT YOUR ANSWER HERE
+    It displays a list of keyboard shortcut commnds.
+    <ESC> key gets you back.
     `<ANSWER ABOVE>`
 
 
